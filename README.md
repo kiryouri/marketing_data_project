@@ -19,3 +19,5 @@ Section 02: Statistical Analysis
 <li>Your supervisor insists that people who buy gold are more conservative. Therefore, people who spent an above average amount on gold in the last 2 years would have more in store purchases. Justify or refute this statement using an appropriate statistical test</li>
 <li>Fish has Omega 3 fatty acids which are good for the brain. Accordingly, do "Married PhD candidates" have a significant relation with amount spent on fish? What other factors are significantly related to amount spent on fish? (Hint: use your knowledge of interaction variables/effects)</li>
 </ul>
+
+*dataset was provided to students for their final project in order to test their statistical analysis skills as part of a MSc. in Business Analytics.*
