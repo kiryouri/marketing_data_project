@@ -22,3 +22,6 @@ Section 02: Statistical Analysis
 </ul>
 
 *dataset was provided to students for their final project in order to test their statistical analysis skills as part of a MSc. in Business Analytics.*
+
+Проект представляет из себя попытки в EDA и статистический анализ, как и другие, датасет позаимствован с kaggle
+Использованные библиотеки: pandas, numpy, seaborn, matplotlib, sklearn
