@@ -1,5 +1,7 @@
 # marketing_data_project
 https://nbviewer.jupyter.org/github/kiryouri/marketing_data_project/blob/main/marketing_data_project.ipynb
+<p>Проект представляет из себя попытки в EDA и статистический анализ, датасет позаимствован с kaggle, с повышением компетенций будет развиваться c:</p>
+<p>Использованные библиотеки: pandas, numpy, seaborn, matplotlib, sklearn</p>
 
 <h2>Task Details</h2>
 <p>You're a marketing analyst and you've been told by the Chief Marketing Officer that recent marketing campaigns have not been as effective as they were expected to be. You need to analyze the data set to understand this problem and propose data-driven solutions.<p>
